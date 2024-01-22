@@ -1,1 +1,6 @@
-# RAG_Multimodel_Gemini_-_vision
+IT uses -
+Gemini-pro
+Gemini-vision-pro
+Faiss-db
+unstructure lib
+googlegenerativeembeddings
